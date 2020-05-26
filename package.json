@@ -1,20 +1,25 @@
-  
 {
-    "name": "anchor-origin-polyfill",
-    "version": "0.0.1",
-    "description": "polyfill for HTMLAnchorElement.origin",
-    "homepage": "https://github.com/herra/anchor-origin-polyfill",
-    "main": "index.js",
-    "repository": {
-      "type": "git",
-      "url": "git://github.com/herra/anchor-origin-polyfill.git"
-    },
-    "keywords": [
-      "polyfill",
-      "anchor",
-      "origin",
-      "IE"
-    ],
-    "author": "Dimitar Nikolov",
-    "license": "MIT"
+  "name": "anchor-origin-polyfill",
+  "version": "0.0.1",
+  "description": "polyfill for HTMLAnchorElement.origin",
+  "homepage": "https://github.com/herra/anchor-origin-polyfill",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/herra/anchor-origin-polyfill.git"
+  },
+  "keywords": [
+    "polyfill",
+    "anchor",
+    "origin",
+    "IE"
+  ],
+  "author": "Dimitar Nikolov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/herra/anchor-origin-polyfill/issues"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
   }
+}
